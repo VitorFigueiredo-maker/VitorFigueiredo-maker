@@ -14,6 +14,11 @@ Página pessoal interativa e responsiva, com uma luminária feita em CSS e alter
 
 [🌐 Abrir demonstração](https://vitorfigueiredo-maker.github.io/minha-pagina/) · **Tecnologias:** HTML, CSS e JavaScript
 
+### [Alugar ou comprar?](https://github.com/VitorFigueiredo-maker/alugar-ou-comprar)
+Calculadora responsiva para comparar a estimativa de aluguel por dia ou por mês com o preço de compra.
+
+[🌐 Abrir demonstração](https://vitorfigueiredo-maker.github.io/alugar-ou-comprar/) · **Tecnologias:** HTML, CSS e JavaScript
+
 ## Tecnologias em prática
 
 HTML · CSS · JavaScript · React · TypeScript · Vite
